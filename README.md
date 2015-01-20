@@ -24,7 +24,7 @@ This assumes a usb XBOX style gamepad, though other input configurations can be 
 
 
 [see video](http://gfycat.com/UnsungTartBluejay)  
-![gamepad 3](http://fat.gfycat.com/UnsungTartBluejay.gif)  
+![gamepad 3](http://zippy.gfycat.com/UnsungTartBluejay.gif)  
 _notice how diagonal movement is the same speed as orthogonal movement_
 
 compare against Rectangular movement [HaxePunk-Move-Shape-Gamepad](https://github.com/GomaGames/HaxePunk-Move-Shape-Gamepad)
