@@ -23,11 +23,15 @@ This assumes a usb XBOX style gamepad, though other input configurations can be 
 - [Touch](http://haxepunk.com/documentation/api/com/haxepunk/utils/Touch.html)
 
 
-[see video](http://gfycat.com/SoggyNaiveCrownofthornsstarfish)  
-![gamepad 3](http://fat.gfycat.com/SoggyNaiveCrownofthornsstarfish.gif)
+[see video](http://gfycat.com/UnsungTartBluejay)  
+![gamepad 3](http://fat.gfycat.com/UnsungTartBluejay.gif)  
+_notice how diagonal movement is the same speed as orthogonal movement_
 
-[see video](http://gfycat.com/DefinitiveScratchyBluefintuna)  
-![gamepad 4](http://fat.gfycat.com/DefinitiveScratchyBluefintuna.gif)
+compare against Rectangular movement [HaxePunk-Move-Shape-Gamepad](https://github.com/GomaGames/HaxePunk-Move-Shape-Gamepad)
+
+[see video](http://gfycat.com/JollyPoorChrysalis)  
+![gamepad 4](http://fat.gfycat.com/JollyPoorChrysalis.gif)  
+_notice how diagonal movement is 1.4x faster than orthogonal movement_
 
 Plug in a usb gamepad.  
 Test this proof of concept.
